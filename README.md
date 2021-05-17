@@ -21,8 +21,13 @@ while(t--)
 {
 int K.N;
 cin >> K >> N;
-Solutiom ob;
+Aditya ob;
 int ans = ob.setKthBit(int N, int K);
 cout << ans << end;
 }
 return 0;
+
+
+
+
+
